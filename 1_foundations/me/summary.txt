@@ -1,2 +1,92 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+   
+Contact
+saiabinesh@gmail.com
+www.linkedin.com/in/saiabinesh
+(LinkedIn)
+Top Skills
+Synthetic Data Generation
+High Performance Computing (HPC)
+Image Analysis
+Certifications
+Six Sigma Black Belt
+Sai Abinesh Natarajan
+AI Researcher and Analyst
+Galway, County Galway, Ireland
+Summary
+Currently a deep learning research engineer working on automotive
+vision perception towards self driving cars at Valeo Vision systems
+at Tuam, Ireland. Did my PhD with an EU funded project called
+ROCSAFE, in Deep learning, for image and sensor data analysis. I
+also have a Masters in Data Analytics that gave me a good hands-on
+in state-of-the-art techniques and tools, in Machine learning, Natural
+Language Processing, Web mining, Big data, and Interactive Web
+visualization. 
+My experience as a data analyst covers various industries ranging
+from healthcare, finance and consulting to engineering and
+education. Having done financial statement analysis and accounting
+as a part of data analysis for clients, I believe that analytical insights
+should lead to a tangible financial impact. 
+I have had the opportunity to acquire a diverse skillset and
+background. I have worked as an industrial automation programmer.
+I am also a certified Six-Sigma Black-belt and implemented the same
+in Syspro Automation. I have excellent communication skills which I
+had the opportunity to leverage, when conducting in-house training
+workshops in previous companies, and also during my time as an
+employability skills trainer.
+When I am not doing assignments, studying, playing badminton,
+dancing, kayaking, or doing radio shows in my university, I like to
+read and watch about subjects that interest me, which are a lot:
+insightful and thought-provoking books like Thinking, Fast and Slow
+and Antifragile; scientific(especially cognitive science) documentaries
+of BBC, NGC, and Discovery Channel; actionable TED talks;
+biographies of the likes of Nikola Tesla, Warren Buffett, Steve Jobs,
+Michael Jackson and Elon Musk.
+Keywords: Deep learning, Remote Forensics, Artificial Intelligence,
+Machine learning, Tableau, Microsoft PowerPivot, R, Power BI,
+  Page 1 of 3   
+Python, Java, Spark, Data visualization, Data Modelling, Data
+analyst, Business Analyst
+Experience
+National University of Ireland, Galway
+Research Scholar
+September 2017 - December 2024 (7 years 4 months)
+County Galway, Ireland
+Valeo
+Deep Learning Research Engineer
+April 2022 - October 2024 (2 years 7 months)
+Tuam, Ireland
+Fine tuned convolutional neural networks to develop perception algorithms for
+automotive car cameras.
+BIsquared Consulting Private Limited
+Data Analyst
+April 2015 - February 2016 (11 months)
+Implemented full cycle Business Intelligence projects in various industries.
+Handled Data Wrangling and Transformation with R. Proficient in Tableau and
+Microsoft BI stack.
+SMART Training Resources India Private Ltd.
+Verbal and Employability skills trainer
+September 2014 - March 2015 (7 months)
+Chennai Area, India
+Trained Engineering undergrads on-campus in Verbal and Soft skills for career
+placement aptitude and readiness.
+Syspro Automation
+Automation Engineer
+September 2011 - April 2013 (1 year 8 months)
+Chennai Area, India
+Programmed and deployed PLC(Programmable Logic Controllers) and
+DCS(Distributed Control Systems) equipment for deployment in thermal
+powerplants and other industrial plants. Designed and drew displays for
+Human Machine Interfaces including some well-known SCADA systems.
+  Page 2 of 3   
+Education
+University of Galway
+Doctor of Philosophy - PhD, Artificial Intelligence · (September 2017 - February
+2025)
+National University of Ireland, Galway
+Master of Science (MSc) in Data Analytics, Data Analytics · (2016 - 2017)
+MNM Jain Engineering College
+BE, Electrical & Electronics Engineering · (2007 - 2011)
+SBOA Matriculation and Higher Secondary School, Annanagar.
+Higher Secondary School, Mathematics and Science · (2005 - 2007)
+Pushpalatha
+  Page 3 of 3
